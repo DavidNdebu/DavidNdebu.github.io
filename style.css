@@ -38,10 +38,12 @@ nav ul li{
     justify-content: space-between;
 }
 nav ul li a{
-    color: #191919;
     text-decoration: none;
     font-size: 18px;
     position: relative;
+}
+nav ul li a span{
+   color: #ffd900;
 }
 nav ul li a::after{
     content: '';
