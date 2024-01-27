@@ -34,7 +34,7 @@ nav{
 nav ul li{
     display: inline-block;
     list-style: none;
-    margin: 20px 50 px;
+    margin: 30px 50 px;
     justify-content: space-between;
 }
 nav ul li a{
