@@ -43,6 +43,8 @@ nav ul li a{
     font-size: 30px;
     position: relative;
     color: #ffffff;
+    width: 25%; /* Four links of equal widths */
+    text-align: center;
 }
 nav ul li a::after{
     content: '';
