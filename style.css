@@ -41,9 +41,7 @@ nav ul li a{
     text-decoration: none;
     font-size: 18px;
     position: relative;
-}
-nav ul li a span{
-   color: #ffd900;
+    color: #ffd900;
 }
 nav ul li a::after{
     content: '';
@@ -61,13 +59,14 @@ nav ul li a:hover:after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
+    color: #ffd900;
 }
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #ffd900;
+    color: #191919;
 }
 /*----------about----------*/
 #about{
