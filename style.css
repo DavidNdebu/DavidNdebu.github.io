@@ -41,7 +41,7 @@ nav ul li a{
     text-decoration: none;
     font-size: 18px;
     position: relative;
-    color: #99ccff;
+    color: aqua;
 }
 nav ul li a::after{
     content: '';
