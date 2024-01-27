@@ -38,7 +38,7 @@ nav ul li{
     justify-content: space-between;
 }
 nav ul li a{
-    color: #fff;
+    color: #191919;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -56,13 +56,20 @@ nav ul li a::after{
 nav ul li a:hover:after{
     width: 100%;
 }
-.headr-text{
+.header-text{
     margin-top: 20%;
     font-size: 30px;
+    color: #191919;
 }
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
+    color: #191919;
+}
+.header-text p{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #191919;
 }
 .header-text h1 span{
     color: #ffd900;
