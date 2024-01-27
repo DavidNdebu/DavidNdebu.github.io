@@ -64,9 +64,6 @@ nav ul li a:hover:after{
     font-size: 60px;
     margin-top: 20px;
 }
-.header-text p{
-    color: #191919;
-}
 .header-text h1 span{
     color: #ffd900;
 }
